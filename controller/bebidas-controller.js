@@ -9,7 +9,7 @@ let Bebidas_Calientes = [
     {
         "id": 2,
       "nombre": "Té",
-      "tamaño": "Grande",
+      "tamaño": "Mediano",
       "precio": "2.00",
       "tipo": "Té"
     },
@@ -24,14 +24,14 @@ let Bebidas_Calientes = [
         "id":4,
       "nombre": "Caribu",
       "tamaño": "Pequeño",
-      "precio": "2.00",
+      "precio": "1.50",
       "tipo": "Café"
     },
     {
         "id":5, 
-      "nombre": "Cappuccino",
-      "tamaño": "Grande",
-      "precio": "3.50",
+      "nombre": "Americano",
+      "tamaño": "Pequeño",
+      "precio": "1.50",
       "tipo": "Café"
     }
   ];
